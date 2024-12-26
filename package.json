@@ -1,0 +1,26 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "description": "The solutions for AoC 2024",
+  "main": "index.js",
+  "scripts": {
+    "check": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunofmaia/aoc-2024.git"
+  },
+  "keywords": [
+    "aot"
+  ],
+  "author": "nunofmaia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nunofmaia/aoc-2024/issues"
+  },
+  "homepage": "https://github.com/nunofmaia/aoc-2024#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
